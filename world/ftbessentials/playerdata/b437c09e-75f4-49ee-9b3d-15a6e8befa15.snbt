@@ -1,0 +1,13 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "twilightforest:twilight_forest", x: -152, y: 6, z: 360, time: 1681573339418L }
+	recording: 0
+	teleport_history: [
+		{ dim: "minecraft:overworld", x: -43, y: 69, z: -54, time: 1681049446878L }
+		{ dim: "minecraft:overworld", x: -331, y: -35, z: -451, time: 1681560545678L }
+	]
+	homes: { }
+}
